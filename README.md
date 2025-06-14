@@ -119,8 +119,6 @@ Este projeto demonstra:
 
     Estrutura limpa, acessível e fácil de evoluir para aplicações maiores
 
-    Ideal como parte de um portfólio de desenvolvedor web
-
 # 🎨 Estilo CSS Moderno – Validação de Cadastro
 
 Este projeto utiliza uma estilização moderna com **CSS customizado**, incorporando **animações, variáveis CSS (`:root`)**, **efeitos visuais com gradientes** e foco em **acessibilidade e responsividade**.
@@ -271,6 +269,8 @@ button:hover {
 
     slideUp: Suaviza a entrada do formulário.
 
+
+
 ## 🧠 Validação com JavaScript
 
 O script `script.js` realiza uma **validação dinâmica e interativa** do formulário de cadastro. Ele verifica:
@@ -355,5 +355,4 @@ form.addEventListener("submit", (e) => {
 });
 
 
-Elongio Moreira
-Estudante de Engenharia de Software
+netinho99 Estudante de Engenharia de Software
